@@ -1,5 +1,4 @@
-## 💭 HI I AM FATUR OR OFTEN CALLED DIOR
-
+### 💭 HI I AM FATUR OR OFTEN CALLED DIOR :grimacing:
 ![Peler](https://telegra.ph/file/35e203b774a3ff2534291.jpg)
 
 ## Let's see my Hobby :
