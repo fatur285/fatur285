@@ -14,4 +14,5 @@
     <a href="https://instagram.com/fatur.285" target="blank"><img src="https://img.shields.io/badge/fatur-30302f?style=flat&logo=instagram" /></a>
 
 ## Stats from me :
+<p align="center"><a href="https://github.com/DIORrios285"><img src="https://github-readme-stats.vercel.app/api?username=DIORrios285&show_icons=true&theme=dracula"></a></p>
 <p align="center"><a href="https://github.com/DIORrios285"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIORrios285&theme=dracula&layout=compact"></a></p>
