@@ -25,6 +25,8 @@ wait a minute, i live in borneo and i talk rudely every day🧟
 - Playing Games
 - Study programming
 
+```Clone is my dick way, Anjing!!!```
+
 ## Get to know me closer :
 <p>
     <a href="https://t.me/uurfavboys1" target="blank"><img src="https://img.shields.io/badge/dior-30302f?style=flat&logo=telegram" /></a>
@@ -33,12 +35,14 @@ wait a minute, i live in borneo and i talk rudely every day🧟
     <a href="https://instagram.com/fatur.285" target="blank"><img src="https://img.shields.io/badge/follow%20now-30302f?style=flat&logo=instagram" /></a>
 
 ## Stats from me :
-<p align="center"><a href="https://github.com/DIORrios285">
+<p align="center">
+<a href="https://github.com/DIORrios285">
 <img src="https://github-readme-stats.vercel.app/api?username=DIORrios285&show_icons=true&theme=tokyonight">
 </a>
 </p>
 
-<p align="center"><a href="https://github.com/DIORrios285">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIORrios285&theme=black&layout=compact">
+<p align="center">
+<a href="https://github.com/DIORrios285">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIORrios285&theme=radical&layout=compact">
 </a>
 </p>
