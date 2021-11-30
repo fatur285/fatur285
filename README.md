@@ -27,13 +27,14 @@ wait a minute, i live in borneo and i talk rudely every day🧟
 
 ```Clone is my dick way, Anjing!!!```
 
-## Get to know me closer :
-<p>
+## Get to know me closer 
+</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
     <a href="https://t.me/faturdiorjuga" target="blank"><img src="https://img.icons8.com/nolan/55/telegram-app.png" /></a>
     <a href="https://t.me/uurfavboys1" target="blank"><img src="https://img.icons8.com/nolan/55/telegram-app.png" /></a>
     <a href="https://t.me/fandasupport" target="blank"><img src="https://img.icons8.com/nolan/55/telegram-app.png" /></a>
     <a href="https://instagram.com/fatur.285" target="blank"><img src="https://img.icons8.com/nolan/55/instagram-new.png" /></a>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Stats from me :
 <p align="center">
