@@ -48,3 +48,10 @@ wait a minute, i live in borneo and i talk rudely every day🧟
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIORrios285&theme=radical&layout=compact">
 </a>
 </p>
+
+<details>
+    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=DIORrios285)
+
+</details>
