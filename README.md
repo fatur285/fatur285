@@ -17,6 +17,8 @@ do you believe in the jokes our parents used to make? forbidden to speak rudely 
 hey, 
 wait a minute, i live in borneo and i talk rudely every day🧟
 
+🔭 I'm working on a music bot project
+
 ```There is no love affair in my life, sometimes love just keeps me from learning```
 
 ## Let's see my Hobby :
