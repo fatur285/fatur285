@@ -1,4 +1,4 @@
-## HI I AM FATUR OR OFTEN CALLED DIOR :grimacing:
+## HELLO WORLD :grimacing:
 ![Peler](https://telegra.ph/file/35e203b774a3ff2534291.jpg)
 
 ## Introduce my self:
