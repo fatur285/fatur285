@@ -1,7 +1,7 @@
 ## HI I AM FATUR OR OFTEN CALLED DIOR :grimacing:
 ![Peler](https://telegra.ph/file/35e203b774a3ff2534291.jpg)
 
-## Note :
+## Introduce my self:
 **my name is fatur but somehow people call me dior!?**
 
 **my country** [🇮🇩 I think Indonesians are famous for their friendly nature]
