@@ -25,6 +25,8 @@ wait a minute, i live in borneo and i talk rudely every day🧟
 
 ```There is no love affair in my life, sometimes love just keeps me from learning```
 
+🤖 Currently developing userbot [Fanda-Userbot](https://github.com/DIORrios285/Fanda-Userbot)
+
 ## Let's see my Hobby :
 - Hang out  ```1000%```
 - Playing music  ```always```
