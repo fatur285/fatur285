@@ -1,10 +1,5 @@
 ## Holla!
 
-[![Profile views](https://gpvc.arturio.dev/fatur285)](https://github.com/fatur285) 
-
-## 📲 Kontak Developer [![Instagram](https://img.shields.io/badge/instagram-e95950.svg?style=for-the-badge&logo=instagram)](https://instagram.com/fturhmannn) 
-<br>
-
 ## Introduce my self:
 **my name is fatur >** but somehow people call me fatz
 
@@ -35,7 +30,7 @@ wait a minute, i live in borneo and i talk rudely every day🧟
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-## Stats from me :
+ ## Stats by me :
 <p align="center">
 <a href="https://github.com/fatur285">
 <img src="https://github-readme-stats.vercel.app/api?username=fatur285&show_icons=true&theme=tokyonight">
