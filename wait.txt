@@ -1,3 +1,0 @@
-else:
-            await event.edit(changelog_str)
-        return await event.respond(f"**Perintah Untuk Update** {REPO_NAME}\n >`.update one`\n >`.update deploy`\n\n**Untuk Meng Update Fitur Terbaru Dari** {REPO_NAME}.")
