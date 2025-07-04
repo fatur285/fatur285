@@ -1,6 +1,5 @@
 ## Holla!
 
-## Introduce my self:
 **my name is fatur >** but somehow people call me fatz
 
 **my age 16 >**
@@ -22,15 +21,13 @@ wait a minute, i live in borneo and i talk rudely every day🧟
 - Study programming  ```37%```
 
 ```Honestly... I LOVE NAURA EVERYDAY!!!```
-
-## Get to know me closer 
+ 
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
      <a href="https://instagram.com/fturhmannn" target="blank"><img src="https://img.icons8.com/nolan/55/instagram-new.png" /></a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
- ## Stats by me :
 <p align="center">
 <a href="https://github.com/fatur285">
 <img src="https://github-readme-stats.vercel.app/api?username=fatur285&show_icons=true&theme=tokyonight">
